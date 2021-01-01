@@ -1,3 +1,5 @@
 env.py
 db.sqlite3
 *.pyc
+*.ipynb
+.ipynb_checkpoints/
